@@ -12,7 +12,7 @@ Exemplo de uso:
 
 ```
 $node
-> let convert = require("bru-romano")
+> let convert = require("romanos")
 > intToRoman('3900'), 'MMMCM'
 > romanToInt('MMM'), 3000
 ```
@@ -37,5 +37,5 @@ $node
 - delimitar o número de caracteres inseridos;
 - README translated to english;
 
-#### versão 1.0.0 (released)
+#### versão 1.0.1 (released)
 - funcionalidades: conversão de números romanos em inteiros e númros inteiros em romanos;
